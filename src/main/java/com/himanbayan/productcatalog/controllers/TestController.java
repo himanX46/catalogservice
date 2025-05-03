@@ -1,4 +1,4 @@
-package com.himanbayan.productcatalog.controller;
+package com.himanbayan.productcatalog.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
